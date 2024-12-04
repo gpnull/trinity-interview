@@ -1,0 +1,6 @@
+JWTSecretKey: "BEAUTY_SECRET"
+HTTPServer:
+  IP: "127.0.0.1"
+  Port: ":8180"
+DataBaseConfig:
+  URL: "root:Abc123456@tcp(127.0.0.1:3306)/app?charset=utf8mb4&parseTime=True&loc=Local"
